@@ -1,1 +1,1 @@
-# https-github.com-digiitechlifestyle-future-skills-ui.gi
+# https-github.com-digiitechlifestyle-future-skills-ui.git
